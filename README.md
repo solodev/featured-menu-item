@@ -1,5 +1,5 @@
 # featured-menu-item
-Sections that utilize a background color can be enhanced with a subtle background image/image overlay that helps reinforce your brand.
+Navigation menus don't have to be made out of same looking links. Sometimes you want to emphasize a certain link that you think is more important than others and set it apart so your visitors can immediately recognize it.
 
 ## Tutorial
 For detailed instruction's, view Solodev's [How to Create a Featured List Item in Your Navigation Menu](https://www.solodev.com/blog/web-design/how-to-create-a-featured-list-item-in-your-navigation-menu.stml)
